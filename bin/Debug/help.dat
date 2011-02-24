@@ -1,0 +1,10 @@
+Help
+----------------
+When you click on the Play button the game will start. You can control your snake movement with the arrows (on the keyboard) or with your mouse (if you have checked this option in the Options menu). After the game have been started you must avoid all obstacles, walls and you have to be careful to not cross your body. Your goal is to eat as many food as you can. When you eat some food your snake is going to grow. You have to eat the food as quick as you can, to win more points. When you do any mistake the game over and you have to enter your name, after that your result is going to be saved. If you want to end the game press Escape. If you want to pause the game, press the Pause key on your keyboard. To start the game again press the same key again.
+----------------
+To edint your game options, click on Options button in the main menu.
+There you can edit snake's body and head color, field color, obstacles color, screen resolution and game level. You can switch your game to Full Screen Mode by checking Full Screen Mode option. From the game Options menu you can add your mouse to the game too. After you finish editing click on the OK button.
+----------------
+To see the game result just click on the Score button in the main menu. There all results are going to be previewed.
+----------------
+To end the game click on the Exit button.

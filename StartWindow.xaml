@@ -1,0 +1,13 @@
+﻿<Window x:Class="Snake.StartWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Feed The Snake" Height="280" Width="365" ResizeMode="NoResize">
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <Button Click="btnPlay_Click" Height="30" Width="80" Margin="15,28,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" IsDefault="True">Play</Button>
+        <Button Click="bntOptions_Click" Height="30" Width="80" Margin="15,68,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">Options</Button>
+        <Button Click="bntResults_Click" Height="30" Width="80" Margin="15,108,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">Score</Button>
+        <Button Click="btnHelp_Click" Height="30" Width="80" Margin="15,148,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">Help</Button>
+        <Button Click="btnExit_Click" Height="30" Width="80" Margin="15,188,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">Exit</Button>
+        <Image Source="nessy-icon.png" HorizontalAlignment="Left" Margin="100,0,0,0"></Image>
+    </Grid>
+</Window>

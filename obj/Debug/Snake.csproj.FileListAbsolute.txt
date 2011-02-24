@@ -1,0 +1,64 @@
+P:\Projects\C#\Snake\Snake\bin\Debug\Snake.exe
+P:\Projects\C#\Snake\Snake\bin\Debug\Snake.pdb
+P:\Projects\C#\Snake\Snake\obj\Debug\ResolveAssemblyReference.cache
+P:\Projects\C#\Snake\Snake\obj\Debug\App.g.cs
+P:\Projects\C#\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+P:\Projects\C#\Snake\Snake\obj\Debug\Snake.g.resources
+P:\Projects\C#\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+P:\Projects\C#\Snake\Snake\obj\Debug\Snake.exe
+P:\Projects\C#\Snake\Snake\obj\Debug\Snake.pdb
+P:\Projects\C#\Snake\Snake\obj\Debug\Inputbox.baml
+P:\Projects\C#\Snake\Snake\obj\Debug\Inputbox.g.cs
+P:\Projects\C#\Snake\Snake\obj\Debug\StartWindow.baml
+P:\Projects\C#\Snake\Snake\obj\Debug\StartWindow.g.cs
+P:\Projects\C#\Snake\Snake\obj\Debug\Snake.About.resources
+P:\Projects\C#\Snake\Snake\obj\Debug\OptionsForm.baml
+P:\Projects\C#\Snake\Snake\obj\Debug\OptionsForm.g.cs
+P:\Projects\C#\Snake\Snake\obj\Debug\ResultsForm.baml
+P:\Projects\C#\Snake\Snake\obj\Debug\ResultsForm.g.cs
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\Snake.exe
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\Snake.pdb
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\Inputbox.baml
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\OptionsForm.baml
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\ResultsForm.baml
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\StartWindow.baml
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\Window1.baml
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\Inputbox.g.cs
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\OptionsForm.g.cs
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\ResultsForm.g.cs
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\StartWindow.g.cs
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\App.g.cs
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\Snake.g.resources
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\Snake.About.resources
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\bin\Debug\Snake.exe
+C:\Documents and Settings\Minko Gechev\My Documents\Downloads\Snake_1.7\Snake\bin\Debug\Snake.pdb
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\Snake.exe
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\Snake.pdb
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\Inputbox.baml
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\OptionsForm.baml
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\ResultsForm.baml
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\StartWindow.baml
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\Window1.baml
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\Inputbox.g.cs
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\OptionsForm.g.cs
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\ResultsForm.g.cs
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\StartWindow.g.cs
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\Window1.g.cs
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\App.g.cs
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\Snake.g.resources
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\Snake.About.resources
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\bin\Debug\Snake.exe
+C:\Users\mgechev\Desktop\as\Нова папка\Snake\bin\Debug\Snake.pdb
+P:\Projects\C#\Snake\Snake\obj\Debug\GameWindow.baml
+P:\Projects\C#\Snake\Snake\obj\Debug\GameWindow.g.cs
+P:\Projects\C#\Snake\Snake\obj\Debug\ResGen.read.1.tlog
+P:\Projects\C#\Snake\Snake\obj\Debug\ResGen.write.1.tlog

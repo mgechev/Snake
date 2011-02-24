@@ -1,0 +1,60 @@
+﻿<Window x:Class="Snake.OptionsForm"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Options" Height="300" Width="300" ResizeMode="NoResize">
+    <Grid>
+        <Button IsDefault="True" TabIndex="8" Height="23" Margin="24,0,0,13" Name="btnOK" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="75" Click="btnOK_Click">OK</Button>
+        <Button TabIndex="9" Height="23" HorizontalAlignment="Right" Margin="0,0,22,13" Name="btnCancel" VerticalAlignment="Bottom" Width="75" Click="btnCancel_Click">Cancel</Button>
+        <ComboBox TabIndex="0" Width="130" Height="23" Margin="136,14,22,0" HorizontalAlignment="Left" Name="bodyColor" VerticalAlignment="Top" SelectedIndex="0">
+            <ComboBoxItem Background="Green" Foreground="Green">Green</ComboBoxItem>
+            <ComboBoxItem Background="Red" Foreground="Red">Red</ComboBoxItem>
+            <ComboBoxItem Background="Black">Black</ComboBoxItem>
+            <ComboBoxItem Background="Gray" Foreground="Gray">Gray</ComboBoxItem>
+            <ComboBoxItem Background="Yellow" Foreground="Yellow">Yellow</ComboBoxItem>
+        </ComboBox>
+        <ComboBox TabIndex="4" Width="130" Height="23" Margin="136,130,22,111" Name="screenSize" HorizontalAlignment="Left" SelectedIndex="1" VerticalAlignment="Top">
+            <ComboBoxItem>1280x1024</ComboBoxItem>
+            <ComboBoxItem>1280x800</ComboBoxItem>            
+            <ComboBoxItem>1024x768</ComboBoxItem>
+            <ComboBoxItem>800x600</ComboBoxItem>
+            <ComboBoxItem>600x480</ComboBoxItem>
+        </ComboBox>
+        <ComboBox TabIndex="5" Height="23" Margin="136,159,22,80" Name="gameLevel" HorizontalAlignment="Left" VerticalAlignment="Top" SelectedIndex="3" Width="130">
+            <ComboBoxItem>Rockie</ComboBoxItem>
+            <ComboBoxItem>Easiest</ComboBoxItem>
+            <ComboBoxItem>Easy</ComboBoxItem>
+            <ComboBoxItem>Medium</ComboBoxItem>
+            <ComboBoxItem>Hard</ComboBoxItem>
+            <ComboBoxItem>Hardest</ComboBoxItem>
+        </ComboBox>
+        <Label Height="28" Margin="9,14,0,0" Name="lblBodyColor" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120">Snake body color:</Label>
+        <Label Height="28" Margin="9,43,0,0" Name="lblHeadColor" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120">Snake head color:</Label>
+        <Label Margin="9,130,0,109" Name="lblGameScreenSize" HorizontalAlignment="Left" Width="120">Game screen size:</Label>
+        <Label HorizontalAlignment="Left" Margin="9,159,0,83" Name="lblGameLevel" Width="120" Height="27" VerticalAlignment="Top">Game level:</Label>
+        <Label HorizontalAlignment="Left" Margin="9,72,0,0" Name="lblFieldColor" Width="120" Height="27" VerticalAlignment="Top">Field color:</Label>
+        <Label Height="28" Margin="9,101,0,0" Name="lblObstacles" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120">Obstacle color:</Label>
+        <ComboBox TabIndex="1" Width="130" Height="23" Margin="136,43,22,0" Name="headColor" VerticalAlignment="Top" SelectedIndex="0" HorizontalAlignment="Left">
+            <ComboBoxItem Background="Green" Foreground="Green">Green</ComboBoxItem>
+            <ComboBoxItem Background="Red" Foreground="Red">Red</ComboBoxItem>
+            <ComboBoxItem Background="Black">Black</ComboBoxItem>
+            <ComboBoxItem Background="Gray" Foreground="Gray">Gray</ComboBoxItem>
+            <ComboBoxItem Background="Yellow" Foreground="Yellow">Yellow</ComboBoxItem>
+        </ComboBox>
+        <ComboBox TabIndex="2" Margin="136,72,22,0" Name="fieldColor" SelectedIndex="0" Height="23" VerticalAlignment="Top" HorizontalAlignment="Left" Width="130">
+            <ComboBoxItem Background="White" Foreground="White">White</ComboBoxItem>
+            <ComboBoxItem Background="Azure" Foreground="Azure">Azure</ComboBoxItem>
+            <ComboBoxItem Background="AliceBlue" Foreground="AliceBlue">AliceBlue</ComboBoxItem>
+            <ComboBoxItem Background="SkyBlue" Foreground="SkyBlue">SkyBlue</ComboBoxItem>
+            <ComboBoxItem Background="LightYellow" Foreground="LightYellow">LightYellow</ComboBoxItem>
+        </ComboBox>
+        <ComboBox TabIndex="3" Width="130" Height="23" Margin="136,101,22,0" Name="obstacleColor" VerticalAlignment="Top" HorizontalAlignment="Left" SelectedIndex="0">
+            <ComboBoxItem Background="DarkGray" Foreground="DarkGray">DarkGray</ComboBoxItem>
+            <ComboBoxItem Background="Red" Foreground="Red">Red</ComboBoxItem>
+            <ComboBoxItem Background="Black">Black</ComboBoxItem>
+            <ComboBoxItem Background="Gray" Foreground="Gray">Gray</ComboBoxItem>
+            <ComboBoxItem Background="Brown" Foreground="Brown">Brown</ComboBoxItem>
+        </ComboBox>
+        <CheckBox TabIndex="7" Height="16" Margin="0,0,22,51" Name="fullScreen" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="90">Full screen</CheckBox>
+        <CheckBox TabIndex="6" Height="16" Margin="24,0,0,51" Name="mouseEnabled" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="105">Mouse enabled</CheckBox>
+    </Grid>
+</Window>
